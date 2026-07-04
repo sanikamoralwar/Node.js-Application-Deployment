@@ -7,7 +7,7 @@ required. The application files (app.js and package.json) were provided by my me
 and I deployed the project by cloning and running it on the server
 #
 ### Architecture Overview
-![](./img//ChatGPT%20Image%20Jul%204,%202026,%2005_57_47%20PM.png)
+![](./img//Architecture%20Diagram.png)
 #
 ### Technologies Used
 * Amazon Linux (EC2)
